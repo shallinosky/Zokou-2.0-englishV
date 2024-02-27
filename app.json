@@ -1,5 +1,5 @@
 {
-  "name":"Zokou-2.0",
+  "name":"Shalli-nosky",
   "description":"bot whatsapp développé par djalega++",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Zokou-MD",
+      "value":"Shalli-nosky",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Djalega++"
+    "value": "Shalli-nosky"
   },
     "NUMERO_OWNER":
   {
