@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧${s.BOT}✧────◆
+╭────✧{Shalli-nosky}✧────◆
 │   *Préfix* : ${s.PREFIXE}
 │   *Owner* : ${s.OWNER_NAME}
 │   *Mode* : ${mode}
@@ -41,9 +41,9 @@ const date = moment().format('DD/MM/YYYY');
 │   *Hour* : ${temps}
 │   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │   *Plateforme* : ${os.platform()}
-│   *Développer* : Djalega++ 
-│  & M๏𝓷keℽ D Lบffy
-╰─────✧WA-BOT✧─────◆ \n\n`;
+│   *Développer* : Shalli-nosky
+│   *CUSTOMER CARE/HELP
+╰─────✧Shalli-nosky✧─────◆ \n\n`;
     
 let menuMsg = `
 👋 Hello ${nomAuteurMessage} 👋
@@ -64,12 +64,12 @@ let menuMsg = `
 
     menuMsg += `
 ◇            ◇
-*»»————— ★ —————««*
+*»»—————Shalli-nosky—————««*
 "To use a command, insert ${prefixe} followed by the command_name."
  
-    Powered by Zokou-MD
+    Powered by Shalli-nosky
                                                 
-*»»————— ★ —————««*
+*»»—————Shalli-nosky—————««*
 `;
 
    var lien = mybotpic();
